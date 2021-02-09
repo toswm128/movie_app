@@ -1,8 +1,8 @@
 import React from "react";
-
+import Home from "./routes/Home"
 
 function App() {
-  return <span>SomeThing</span>
+  return <Home />
 }
 
 export default App;

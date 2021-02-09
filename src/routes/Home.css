@@ -32,7 +32,6 @@ body{
     margin-bottom: 70px;
     background-color: white;
     display: flex;
-    justify-content: space-between;
     align-items: flex-start;
     box-shadow: 29px 40px 50px 0px rgba(199, 199, 199, 0.75);
 }
